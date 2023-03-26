@@ -4,7 +4,7 @@ on:
   push
 
 env:
-  FOLDER: '<path>/cloudflare/lists'
+  FOLDER: './cloudflare/lists'
 
 jobs:
   auto-update:
